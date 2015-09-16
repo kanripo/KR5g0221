@@ -1,18 +1,3 @@
-#+TITLE: 太上元始天尊說北帝伏魔神咒妙經 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 03:00:21.244052
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5g0221_000.txt][太上元始天尊說北帝伏魔神咒妙經 0]]
- - [[file:KR5g0221_001.txt][太上元始天尊說北帝伏魔神咒妙經 1]]
- - [[file:KR5g0221_002.txt][太上元始天尊說北帝伏魔神咒妙經 2]]
- - [[file:KR5g0221_003.txt][太上元始天尊說北帝伏魔神咒妙經 3]]
- - [[file:KR5g0221_004.txt][太上元始天尊說北帝伏魔神咒妙經 4]]
- - [[file:KR5g0221_005.txt][太上元始天尊說北帝伏魔神咒妙經 5]]
- - [[file:KR5g0221_006.txt][太上元始天尊說北帝伏魔神咒妙經 6]]
- - [[file:KR5g0221_007.txt][太上元始天尊說北帝伏魔神咒妙經 7]]
- - [[file:KR5g0221_008.txt][太上元始天尊說北帝伏魔神咒妙經 8]]
- - [[file:KR5g0221_009.txt][太上元始天尊說北帝伏魔神咒妙經 9]]
- - [[file:KR5g0221_010.txt][太上元始天尊說北帝伏魔神咒妙經 10]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.

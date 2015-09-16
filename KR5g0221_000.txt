@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 03:00:20.908172
-#+TITLE: 太上元始天尊說北帝伏魔神咒妙經
-#+PROPERTY: DZID  DZ1412
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，34—392 十卷 正一部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
